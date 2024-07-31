@@ -1,0 +1,14 @@
+C:\Users\Up_N_\source\repos\Project 2 Renewable electricity\Project 2 Renewable electricity\bin\Debug\net8.0\Project 2 Renewable electricity.exe
+C:\Users\Up_N_\source\repos\Project 2 Renewable electricity\Project 2 Renewable electricity\bin\Debug\net8.0\Project 2 Renewable electricity.deps.json
+C:\Users\Up_N_\source\repos\Project 2 Renewable electricity\Project 2 Renewable electricity\bin\Debug\net8.0\Project 2 Renewable electricity.runtimeconfig.json
+C:\Users\Up_N_\source\repos\Project 2 Renewable electricity\Project 2 Renewable electricity\bin\Debug\net8.0\Project 2 Renewable electricity.dll
+C:\Users\Up_N_\source\repos\Project 2 Renewable electricity\Project 2 Renewable electricity\bin\Debug\net8.0\Project 2 Renewable electricity.pdb
+C:\Users\Up_N_\source\repos\Project 2 Renewable electricity\Project 2 Renewable electricity\obj\Debug\net8.0\Project 2 Renewable electricity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Up_N_\source\repos\Project 2 Renewable electricity\Project 2 Renewable electricity\obj\Debug\net8.0\Project 2 Renewable electricity.AssemblyInfoInputs.cache
+C:\Users\Up_N_\source\repos\Project 2 Renewable electricity\Project 2 Renewable electricity\obj\Debug\net8.0\Project 2 Renewable electricity.AssemblyInfo.cs
+C:\Users\Up_N_\source\repos\Project 2 Renewable electricity\Project 2 Renewable electricity\obj\Debug\net8.0\Project 2 Renewable electricity.csproj.CoreCompileInputs.cache
+C:\Users\Up_N_\source\repos\Project 2 Renewable electricity\Project 2 Renewable electricity\obj\Debug\net8.0\Project 2 Renewable electricity.dll
+C:\Users\Up_N_\source\repos\Project 2 Renewable electricity\Project 2 Renewable electricity\obj\Debug\net8.0\refint\Project 2 Renewable electricity.dll
+C:\Users\Up_N_\source\repos\Project 2 Renewable electricity\Project 2 Renewable electricity\obj\Debug\net8.0\Project 2 Renewable electricity.pdb
+C:\Users\Up_N_\source\repos\Project 2 Renewable electricity\Project 2 Renewable electricity\obj\Debug\net8.0\Project 2 Renewable electricity.genruntimeconfig.cache
+C:\Users\Up_N_\source\repos\Project 2 Renewable electricity\Project 2 Renewable electricity\obj\Debug\net8.0\ref\Project 2 Renewable electricity.dll
