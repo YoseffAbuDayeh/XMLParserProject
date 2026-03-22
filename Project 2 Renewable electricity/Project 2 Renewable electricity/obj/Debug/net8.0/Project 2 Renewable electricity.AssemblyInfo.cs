@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Project 2 Renewable electricity")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e5be5a87ce1ced4a997a2d289e4bd9ddff8d2d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Project 2 Renewable electricity")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Project 2 Renewable electricity")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

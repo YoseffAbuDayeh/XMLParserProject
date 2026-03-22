@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "4yl3lJmtEnU=",
+  "dgSpecHash": "PxmixExpwr0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Up_N_\\source\\repos\\Project 2 Renewable electricity\\Project 2 Renewable electricity\\Project 2 Renewable electricity.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Github\\XMLParserProject\\Project 2 Renewable electricity\\Project 2 Renewable electricity\\Project 2 Renewable electricity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Up_N_\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.25\\microsoft.windowsdesktop.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\Up_N_\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.25\\microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\Up_N_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.25\\microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\Up_N_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.25\\microsoft.netcore.app.host.win-x64.8.0.25.nupkg.sha512"
+  ],
   "logs": []
 }
